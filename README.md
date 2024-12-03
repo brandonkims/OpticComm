@@ -1,5 +1,4 @@
 # OpticComm
 <p align="center">
-<img src="https://github.com/user-attachments/assets/3e2ae59e-72d8-45ee-9a2e-2cb1d0cce8a8
-">
+<img src="![RF-over-optical real-time video streaming](https://github.com/user-attachments/assets/83d7d22e-a8f9-4017-abe0-2d5fd920456b)">
 </p>
