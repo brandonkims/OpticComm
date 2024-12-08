@@ -2,7 +2,7 @@
 **[영상1.1]. 무선 슈퍼컴퓨터 연결 네트워크**
 <br>
 <br>
-**Reference: Wireless Interconnection Network (WINE) for Post-Exascale High Performance Computing [manuscript.pdf.pdf](https://github.com/user-attachments/files/18051897/manuscript.pdf.pdf)**
+**Reference: Wireless Interconnection Network (WINE) for Post-Exascale High Performance Computing [manuscript.pdf.pdf](https://github.com/user-attachments/files/18051897/manuscript.pdf)**
 
 https://github.com/user-attachments/assets/92012a1d-d422-4f6e-848d-9736b5477faa
 
