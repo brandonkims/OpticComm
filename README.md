@@ -1,7 +1,8 @@
 # OpticComm
 **[영상1.1]. 무선 슈퍼컴퓨터 연결 네트워크**
 <br>
-**Ref: Wireless Interconnection Network (WINE) for Post-Exascale High Performance Computing [LEE524_LAYOUT-rev1.pdf](https://github.com/user-attachments/files/18051870/LEE524_LAYOUT-rev1.pdf)**
+<br>
+**Reference: Wireless Interconnection Network (WINE) for Post-Exascale High Performance Computing [LEE524_LAYOUT-rev1.pdf](https://github.com/user-attachments/files/18051870/LEE524_LAYOUT-rev1.pdf)**
 
 https://github.com/user-attachments/assets/92012a1d-d422-4f6e-848d-9736b5477faa
 
